@@ -1,11 +1,11 @@
 # 👋 Hi, I'm Abdullah El-Sayed  
 
 ## 💫 About Me
-Full-Stack Engineer specializing in **React, Next.js, Node.js, and Laravel** with 3+ years of experience building scalable web applications.  
+Full-Stack Engineer specializing in **React, Node.js, and Laravel** with 3+ years of experience building scalable web applications.  
 
 Delivered **200+ coding sessions** and mentored **500+ students**, helping them build real-world projects from idea to deployment.  
 
-I focus on clean architecture, scalable backend systems, and simplifying complex technical concepts.
+
 
 ---
 
@@ -42,10 +42,6 @@ I focus on clean architecture, scalable backend systems, and simplifying complex
 
 ---
 
-## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=AbdullahAlsaied&theme=dark&hide_border=true)
-![](https://nirzak-streak-stats.vercel.app/?user=AbdullahAlsaied&theme=dark&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahAlsaied&theme=dark&hide_border=true&layout=compact)
 
 ---
 
